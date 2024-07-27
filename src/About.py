@@ -4,9 +4,9 @@ import streamlit as st
 def run():
     st.markdown("""
                 
-    ## About Planify
+    ## About Crukafe
 
-    Planify is a smart and easy-to-use task manager designed to help you manage your current weekly activities, add new tasks, and prioritize your responsibilities efficiently.
+    Crukafe is a smart and easy-to-use task manager designed to help you manage your current weekly activities, add new tasks, and prioritize your responsibilities efficiently.
 
     #### Features
     - **Initial**: Manually schedule your established activities or import an existing schedule with specific start and end times for each day of the week.
@@ -15,9 +15,9 @@ def run():
     - **Plan**: View your created schedule! Also has a summarized JSON format of your planned activities and tasks.
 
     #### Developers
-    Planify was developed by Lysander, Lakshya, and Shuhan with a focus on providing the best user experience for managing daily tasks and schedules.
+    Crukafe was developed by Lysander, Lakshya, and Shuhan with a focus on providing the best user experience for managing daily tasks and schedules.
 
-    We hope you find Planify helpful in organizing your daily activities and tasks!
+    We hope you find Crukafe helpful in organizing your daily activities and tasks!
 
     """)
 

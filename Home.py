@@ -14,7 +14,7 @@ def main():
 
     cols = st.columns([1.5, 1])
     cols[1].image(logo, width=100)
-    cols[0].markdown("<h1 style='text-align: right;'>&nbsp&nbspPlanify</h1>", unsafe_allow_html=True)
+    cols[0].markdown("<h1 style='text-align: right;'>&nbsp&nbspCrukafe</h1>", unsafe_allow_html=True)
 
     if "page" not in st.session_state:
         st.session_state.page = "About"
